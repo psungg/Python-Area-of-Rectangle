@@ -25,3 +25,8 @@ sys.exit()
 
 ## Result
 
+![Fig01](https://github.com/psungg/Python-Area-of-Rectangle/blob/main/Images/Fig01.png)
+
+![Fig02](https://github.com/psungg/Python-Area-of-Rectangle/blob/main/Images/Fig02.png)
+
+![Fig03](https://github.com/psungg/Python-Area-of-Rectangle/blob/main/Images/Fig03.png)
